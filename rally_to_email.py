@@ -292,7 +292,7 @@ def send_email(html_content, story_count):
 
 def main():
     print("=" * 60)
-    print("Rally to Gmail Script - Starting")
+    print("Rally to Email Script - Starting")
     print("=" * 60)
     
     stories = get_accepted_stories()
