@@ -1,0 +1,18 @@
+RALLY_API_KEY =REPLACE_ME_WITH_OWN_KEY
+RALLY_USERNAME =John Doe #Replace with your name
+RALLY_BASE_URL =https://rally1.rallydev.com
+DAYS_BACK =200  # Check stories accepted in the last N days
+
+# Email Configuration, Uncomment either the Gmail or Compassion section.
+
+# Gmail
+# YOUR_EMAIL =yourown@gmail.com
+# SMTP_SERVER =smtp.gmail.com
+# EMAIL_PASSWORD =abcdPassword123 #best to use app specific password from gmail if able
+
+# Compassion
+# YOUR_EMAIL =your_own_email@work.org
+# SMTP_SERVER =smtp.office365.com
+# EMAIL_PASSWORD =abcdPassword123
+
+SMTP_PORT = 587
